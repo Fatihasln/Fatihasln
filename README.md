@@ -2,23 +2,11 @@
 
 **Quantitative Analyst** based in Milan — building at the intersection of **econometrics**, **quantitative finance**, and **machine learning**.
 
-MSc in Data Science for Economics @ University of Milan. My thesis applies difference-in-differences identification to 850,000+ Italian student records — published on SSRN. Previously contributed to a CERN economic impact study co-cited in the official UniMi press release.
+MSc in Data Science for Economics @ University of Milan. My thesis applies difference-in-differences identification to 126,000+ Italian student records — published on SSRN. Previously contributed to a CERN economic impact study co-cited in the official UniMi press release.
 
 > 🔭 Currently working on **alpha creation strategies** — systematic signal generation and backtesting.  
 > 🚧 Coming soon: **Market Microstructure Analysis** with Bayesian inference.
 
----
-
-## What I Work On
-
-```python
-focus = {
-    "causal_inference" : ["DiD", "IV", "Synthetic Controls", "Permutation Tests"],
-    "time_series"      : ["ARIMA", "VAR", "GARCH", "Yield Curve Modelling"],
-    "machine_learning" : ["XGBoost", "LightGBM", "CNNs", "NLP / Embeddings"],
-    "quant_finance"    : ["Alpha Generation", "Options Pricing", "Portfolio Optimisation", "Credit Risk"],
-}
-```
 
 ---
 
