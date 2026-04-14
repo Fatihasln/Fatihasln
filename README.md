@@ -19,7 +19,7 @@ MSc in Data Science for Economics @ University of Milan. My thesis applies diffe
 | 💼 [Quantitative_Portfolio_Management](https://github.com/Fatihasln/Quantitative_Portfolio_Management) | Mean-variance optimisation & backtesting | Markowitz, Sharpe, Monte Carlo |
 | ⚙️ [Black-Scholes-Option-Pricing](https://github.com/Fatihasln/Black-Scholes-Option-Pricing) | Options pricing with Greeks sensitivity analysis | Black-Scholes |
 | 🤖 [CNN_Algorithm_for_Computer_Vision](https://github.com/Fatihasln/CNN_Algorithm_for_Computer_Vision) | CNN image classification pipeline | PyTorch, Deep Learning |
-| 🔍 [Finding-Similar-Items-in-arXiv](https://github.com/Fatihasln/Finding-Similar-Items-in-arXiv-) | NLP similarity search on scientific paper corpus | Embeddings, LSH, NLP |
+| 🔍 [Finding-Similar-Items-in-arXiv](https://github.com/Fatihasln/Finding-Similar-Items-in-arXiv-) | NLP similarity search on scientific paper corpus | Embeddings, LSH |
 | 🏦 [modular-churn-prediction](https://github.com/Fatihasln/modular-churn-prediction) | End-to-end modular ML pipeline on banking data | XGBoost, Feature Engineering |
 | 🔮 Market Microstructure × Bayesian *(coming soon)* | Order flow, adverse selection & Bayesian inference | Bayesian Methods, Microstructure Theory |
 
