@@ -1,6 +1,6 @@
 # Hi, I'm Fatih 👋
 
-**Quantitative Analyst** based in Milan — building at the intersection of **econometrics**, **quantitative finance**, and **machine learning**.
+**Quantitative Analyst** based in Milan — building at the intersection of **data-driven economics**, **econometrics**, **quantitative finance**, and **machine learning**.
 
 MSc in Data Science for Economics @ University of Milan. My thesis applies difference-in-differences identification to 126,000+ Italian student records — published on SSRN. Previously contributed to a CERN economic impact study co-cited in the official UniMi press release.
 
