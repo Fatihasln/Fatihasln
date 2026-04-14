@@ -14,7 +14,7 @@ MSc in Data Science for Economics @ University of Milan. My thesis applies diffe
 
 | Project | Description | Methods |
 |---|---|---|
-| 📄 [causal-inference-stem-gender-gap](https://github.com/Fatihasln/causal-inference-stem-gender-gap) | Policy evaluation on 850K+ records — published on SSRN | DiD, WLS, Permutation Inference |
+| 📄 [causal-inference-stem-gender-gap](https://github.com/Fatihasln/causal-inference-stem-gender-gap) | Policy evaluation on 126K+ records — published on SSRN | DiD, WLS, Permutation Inference |
 | 📈 [Euro-Yield-Curve](https://github.com/Fatihasln/Euro-Yield-Curve) | Euro area yield curve dynamics & modelling | Nelson-Siegel, Time Series |
 | 💼 [Quantitative_Portfolio_Management](https://github.com/Fatihasln/Quantitative_Portfolio_Management) | Mean-variance optimisation & backtesting | Markowitz, Sharpe, Monte Carlo |
 | ⚙️ [Black-Scholes-Option-Pricing](https://github.com/Fatihasln/Black-Scholes-Option-Pricing) | Options pricing with Greeks sensitivity analysis | Black-Scholes |
