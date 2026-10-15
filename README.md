@@ -1,6 +1,6 @@
 # Hi, I'm Fatih 👋
 
-**Quantitative Trader** based in Milan — building at the intersection of **data-driven economics**, **econometrics**, **quantitative finance**, and **machine learning**.
+**Quantitative Trader** based in Milan — building at the intersection of **quantitative finance**, **machine learning**, **econometrics**, **data-driven economics**.
 
 MSc in Data Science for Economics @ University of Milan. My thesis applies difference-in-differences identification to 850,000+ Italian student records — published on SSRN. Previously contributed to a CERN economic impact study co-cited in the official UniMi press release.
 
@@ -29,7 +29,7 @@ MSc in Data Science for Economics @ University of Milan. My thesis applies diffe
 
 🔬 **CERN / University of Milan** — Econometric modelling of CERN's regional socio-economic impact on European panel data; co-authored a stakeholder policy report cited in the official UniMi press release.
 
-🏦 **Data Scientist, US Banking** — Built 10+ ML models on 500K+ record banking dataset; applied ARIMA/GARCH for revenue forecasting; improved 90-day accuracy by ~18%.
+🏦 **Data Scientist, US Banking Data** — Built 10+ ML models on 500K+ record banking dataset; applied ARIMA/GARCH for revenue forecasting; improved 90-day accuracy by ~18%.
 
 📊 **Financial Analyst, Turkcell Digital Insurance** — IFRS-compliant financial reporting and KPI dashboards via SAP/Oracle.
 
