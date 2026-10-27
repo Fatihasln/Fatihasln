@@ -1,4 +1,4 @@
-# Hi, I'm Fatih 👋
+# Hi, I'm Fatih 
 
 **Quantitative Trader** based in Milan — building at the intersection of **quantitative finance**, **machine learning**, **econometrics**, **data-driven economics**.
 
